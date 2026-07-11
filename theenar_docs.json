@@ -1,0 +1,17 @@
+{
+  "tree": {
+    "id": "root",
+    "type": "folder",
+    "name": "Docs",
+    "children": [
+      {
+        "id": "nfe82ef52",
+        "type": "doc",
+        "name": "Welcome",
+        "text": "UwU\n\nMake folders and notes with the buttons up top (folders can hold folders yay) (folders can hold folders). Type in this box (can edit this text or delete this note), select text and hit B / I / U / A / \u25a0 to format it.\n\nAlso I'm not putting this in the info tab I'm too lazy just ask me if you need help :3Btw you can't bold and italicize at the same time.\n\nEverything autosaves to theenar_docs.json.",
+        "tags": {}
+      }
+    ]
+  },
+  "current": "nfe82ef52"
+}
